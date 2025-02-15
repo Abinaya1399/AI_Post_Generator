@@ -21,7 +21,7 @@ A social media influencer who wants assistance in writing future posts uploads t
 
 1. **API Key Setup:**  
    - Obtain your API key from [Groq Console](https://console.groq.com/keys).  
-   - Create a `.env` file in the root directory and add:
+   - Add your API key in the `.env` file: 
      ```bash
      GROQ_API_KEY=your_api_key_here
      ```
